@@ -31,7 +31,7 @@ My list of starred repositories grouped by subjects and relevance
   - [Ruby](#ruby)
     - [Gems](#gems)
   - [Testing](#testing)
-  - [API](#api-1)
+    - [API](#api-1)
     - [Framework](#framework-1)
   - [Tools](#tools)
 
@@ -126,7 +126,7 @@ My list of starred repositories grouped by subjects and relevance
 
 ## Testing
 
-## API
+### API
 
 - [Python REST Test](https://github.com/svanoort/pyresttest)
 
