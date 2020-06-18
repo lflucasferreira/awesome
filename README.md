@@ -94,7 +94,7 @@ My list of starred repositories grouped by subjects and relevance
 ## GraphQL
 
 - :star: [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql)
-- :stars: [How to GraphQL](https://github.com/howtographql/howtographql)
+- :star2: [How to GraphQL](https://github.com/howtographql/howtographql)
 
 ### Ecommerce
 
@@ -138,9 +138,3 @@ My list of starred repositories grouped by subjects and relevance
 
 - [Davinci](https://github.com/edp963/davinci)
 - [Motrix](https://github.com/agalwood/Motrix)
-
-:star:
-
-:star2:
-
-:stars:
